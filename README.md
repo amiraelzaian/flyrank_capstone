@@ -5,8 +5,15 @@ Frontend AI Engineering track capstone for FlyRank internship.
 ## Stack
 
 - React.js
-- Javascript
+- JavaScript
 - Tailwind CSS
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
 
 ## Status
 
