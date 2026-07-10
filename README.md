@@ -4,11 +4,10 @@ Frontend AI Engineering track capstone for FlyRank internship.
 
 ## Stack
 
-- Next.js (App Router)
-- TypeScript
+- React.js
+- Javascript
 - Tailwind CSS
 
 ## Status
 
 🚧 In progress — Week 1 setup.
-EOF
