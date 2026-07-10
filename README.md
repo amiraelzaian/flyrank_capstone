@@ -1,5 +1,3 @@
-cat > README.md << 'EOF'
-
 # FlyRank Capstone Project
 
 Frontend AI Engineering track capstone for FlyRank internship.
@@ -13,4 +11,3 @@ Frontend AI Engineering track capstone for FlyRank internship.
 ## Status
 
 🚧 In progress — Week 1 setup.
-EOF

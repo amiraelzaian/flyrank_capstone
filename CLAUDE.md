@@ -1,5 +1,3 @@
-cat > CLAUDE.md << 'EOF'
-
 # Claude Code Rules
 
 ## Stack
@@ -15,4 +13,3 @@ cat > CLAUDE.md << 'EOF'
 - Prefer functional components and hooks
 - Keep components small and single-purpose
 - Use async/await, not .then() chains
-  EOF
