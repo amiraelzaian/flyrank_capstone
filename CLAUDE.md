@@ -2,8 +2,8 @@
 
 ## Stack
 
-- Next.js 14+ (App Router)
-- TypeScript
+- React.js
+- Javascript
 - Tailwind CSS
 - MongoDB / Supabase (when data layer is added)
 
