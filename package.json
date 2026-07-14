@@ -2,8 +2,11 @@
   "name": "flyrank_capstone",
   "version": "1.0.0",
   "description": "Frontend AI Engineering track capstone for FlyRank internship.",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/amiraelzaian/flyrank_capstone/issues"
   },
-  "homepage": "https://github.com/amiraelzaian/flyrank_capstone#readme"
+  "homepage": "https://github.com/amiraelzaian/flyrank_capstone#readme",
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.2",
+    "@vitejs/plugin-react": "^6.0.3",
+    "tailwindcss": "^4.3.2",
+    "vite": "^8.1.4"
+  }
 }
