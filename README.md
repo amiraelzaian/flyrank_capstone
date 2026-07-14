@@ -1,24 +1,35 @@
-# FlyRank Capstone Project
+# FlyRank Capstone – AI Vague Prompt
 
-Frontend AI Engineering track capstone for FlyRank internship.
+This branch contains the first implementation of the React Settings Form created using a single vague AI prompt.
 
-## About the Project
+## Prompt Used
 
-This is a frontend capstone built during the FlyRank internship's AI Engineering track. The project uses React and Tailwind CSS to create a modern web interface, with a focus on applying AI engineering skills in a real product context.
+> Build a React settings form.
 
-## Stack
+No additional requirements, project context, validation rules, accessibility instructions, or verification steps were provided.
 
-- React.js
+## Features
+
+- Basic React application
+- Settings form
+- Minimal project structure
+- AI-generated implementation with minimal guidance
+
+## Tech Stack
+
+- React
+- Vite
 - JavaScript
-- Tailwind CSS
 
-## Getting Started
+## Installation
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Status
+## Purpose
 
-🚧 In progress — Week 1 setup.
+This branch demonstrates the outcome of using a simple, high-level AI prompt without detailed specifications.
+
+It serves as the baseline for comparison with the `ai-structured` branch.
