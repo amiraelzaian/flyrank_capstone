@@ -1,16 +1,55 @@
-# React + Vite
+# FlyRank Capstone – AI Structured Prompt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This branch contains the second implementation of the React Settings Form created using a detailed AI prompt with explicit requirements and verification instructions.
 
-Currently, two official plugins are available:
+## Prompt Strategy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The AI received:
 
-## React Compiler
+- Clear project requirements
+- Folder structure expectations
+- React Hook Form
+- Zod validation
+- Accessibility requirements
+- Verification instructions
+- Code review request
+- Testing request
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- React + Vite
+- React Hook Form
+- Zod validation
+- Accessible form
+- Inline validation messages
+- Success message after submission
+- Organized component structure
+- Separated validation logic
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Vite
+- React Hook Form
+- Zod
+- @hookform/resolvers
+- JavaScript
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Comparison Goal
+
+This branch is intended to demonstrate how a structured prompt produces:
+
+- Better code organization
+- Stronger validation
+- Improved accessibility
+- Easier code review
+- Lower manual correction effort
+
+The complete comparison is documented in **WORKFLOW.md**.
